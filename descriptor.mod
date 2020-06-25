@@ -5,3 +5,4 @@ tags={
 }
 name="Advisors Expanded"
 supported_version="1.30.3"
+picture="thumbnail.png"

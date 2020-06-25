@@ -240,7 +240,7 @@ combat_engineer = {
 	monarch_power = MIL
 	
 	# Bonus
-	siege_ability = 0.15
+	siege_ability = 0.20
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
