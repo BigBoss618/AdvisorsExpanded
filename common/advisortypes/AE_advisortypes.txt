@@ -1,0 +1,303 @@
+##### ADMINISTRATIVE ADVISORS #####
+administrator = {
+	monarch_power = ADM
+	
+	# Bonus
+	governing_capacity_modifier = 0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+state_overseer = {
+	monarch_power = ADM
+	
+	# Bonus
+	state_maintenance_modifier = -0.25
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+civil_engineer = {
+	monarch_power = ADM
+	
+	# Bonus
+	development_cost = -0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+researcher = {
+	monarch_power = ADM
+	
+	# Bonus
+	global_institution_spread = 0.25
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+reformist = {
+	monarch_power = ADM
+	
+	# Bonus
+	reform_progress_growth = 0.15
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+religious_representative = {
+	monarch_power = ADM
+	
+	# Bonus
+	church_loyalty_modifier = 0.20
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+##### DIPLOMATIC ADVISORS #####
+negotiator = {
+	monarch_power = DIP
+	
+	# Bonus
+	ae_impact = -0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+pioneer = {
+	monarch_power = DIP
+	
+	# Bonus
+	global_colonial_growth = 10
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+marauder_captain = {
+	monarch_power = DIP
+	
+	# Bonus
+	privateer_efficiency = 0.25
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+marketeer = {
+	monarch_power = DIP
+	
+	# Bonus
+	global_trade_power = 0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+mercantile_influencer = {
+	monarch_power = DIP
+	
+	# Bonus
+	trade_steering = 0.15
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+navarch = {
+	monarch_power = DIP
+	
+	# Bonus
+	navy_tradition = 1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+##### MILITARY ADVISORS #####
+commander = {
+	monarch_power = MIL
+	
+	# Bonus
+	army_tradition = 1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+drill_instructor = {
+	monarch_power = MIL
+	
+	# Bonus
+	drill_gain_modifier = 0.33
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+combat_engineer = {
+	monarch_power = MIL
+	
+	# Bonus
+	siege_ability = 0.15
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+tactician = {
+	monarch_power = MIL
+	
+	# Bonus
+	hostile_attrition = 1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+mercenary_captain = {
+	monarch_power = MIL
+	
+	# Bonus
+	mercenary_cost = -0.20
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+defensive_planner = {
+	monarch_power = MIL
+	
+	# Bonus
+	shock_damage_received = -0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
