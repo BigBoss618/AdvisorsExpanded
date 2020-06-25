@@ -9,6 +9,12 @@ has_adm_advisor = {
 			advisor = master_of_mint
 			advisor = inquisitor
 			advisor = natural_scientist
+			advisor = administrator
+			advisor = state_overseer
+			advisor = civil_engineer
+			advisor = researcher
+			advisor = reformist
+			advisor = religious_representative
 		}
 	}
 }
@@ -24,6 +30,12 @@ has_adm_advisor_2 = {
 			master_of_mint = 2
 			inquisitor = 2
 			natural_scientist = 2
+			administrator = 2
+			state_overseer = 2
+			civil_engineer = 2
+			researcher = 2
+			reformist = 2
+			religious_representative = 2
 		}
 	}
 }
@@ -39,6 +51,12 @@ has_adm_advisor_3 = {
 			master_of_mint = 3
 			inquisitor = 3
 			natural_scientist = 3
+			administrator = 3
+			state_overseer = 3
+			civil_engineer = 3
+			researcher = 3
+			reformist = 3
+			religious_representative = 3
 		}
 	}
 }
@@ -55,6 +73,12 @@ has_dip_advisor = {
 			advisor = colonial_governor
 			advisor = navigator
 			advisor = spymaster
+			advisor = negotiator
+			advisor = pioneer
+			advisor = marauder_captain
+			advisor = marketeer
+			advisor = mercantile_influencer
+			advisor = navarch
 		}
 	}
 }
@@ -70,6 +94,12 @@ has_dip_advisor_2 = {
 			colonial_governor = 2
 			navigator = 2
 			spymaster = 2
+			negotiator = 2
+			pioneer = 2
+			marauder_captain = 2
+			marketeer = 2
+			mercantile_influencer = 2
+			navarch = 2
 		}
 	}
 }
@@ -85,6 +115,12 @@ has_dip_advisor_3 = {
 			colonial_governor = 3
 			navigator = 3
 			spymaster = 3
+			negotiator = 3
+			pioneer = 3
+			marauder_captain = 3
+			marketeer = 3
+			mercantile_influencer = 3
+			navarch = 3
 		}
 	}
 }
@@ -100,6 +136,12 @@ has_mil_advisor = {
 			advisor = recruitmaster
 			advisor = fortification_expert
 			advisor = quartermaster
+			advisor = commander
+			advisor = drill_instructor
+			advisor = combat_engineer
+			advisor = tactician
+			advisor = mercenary_captain
+			advisor = defensive_planner
 		}
 	}
 }
@@ -115,6 +157,12 @@ has_mil_advisor_2 = {
 			recruitmaster = 2
 			fortification_expert = 2
 			quartermaster = 2
+			commander = 2
+			drill_instructor = 2
+			combat_engineer = 2
+			tactician = 2
+			mercenary_captain = 2
+			defensive_planner = 2
 		}
 	}
 }
@@ -130,6 +178,12 @@ has_mil_advisor_3 = {
 			recruitmaster = 3
 			fortification_expert = 3
 			quartermaster = 3
+			commander = 3
+			drill_instructor = 3
+			combat_engineer = 3
+			tactician = 3
+			mercenary_captain = 3
+			defensive_planner = 3
 		}
 	}
 }
