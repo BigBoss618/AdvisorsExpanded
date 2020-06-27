@@ -161,3 +161,167 @@ spriteTypes = {
 		loadType = "INGAME"
 	}
 }
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_advisor_asiangfx_administrator"
+		texturefile = "gfx//interface//advisors//asian_administrator.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_state_overseer"
+		texturefile = "gfx//interface//advisors//asian_state_overseer.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_civil_engineer"
+		texturefile = "gfx//interface//advisors//asian_civil_engineer.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_researcher"
+		texturefile = "gfx//interface//advisors//asian_researcher.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_reformist"
+		texturefile = "gfx//interface//advisors//asian_reformist.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_religious_representative"
+		texturefile = "gfx//interface//advisors//asian_religious_representative.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_negotiator"
+		texturefile = "gfx//interface//advisors//asian_negotiator.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_pioneer"
+		texturefile = "gfx//interface//advisors//asian_pioneer.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_marauder_captain"
+		texturefile = "gfx//interface//advisors//asian_marauder_captain.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_marketeer"
+		texturefile = "gfx//interface//advisors//asian_marketeer.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_mercantile_influencer"
+		texturefile = "gfx//interface//advisors//asian_mercantile_influencer.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_navarch"
+		texturefile = "gfx//interface//advisors//asian_navarch.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_commander"
+		texturefile = "gfx//interface//advisors//asian_commander.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_drill_instructor"
+		texturefile = "gfx//interface//advisors//asian_drill_instructor.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_combat_engineer"
+		texturefile = "gfx//interface//advisors//asian_combat_engineer.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_tactician"
+		texturefile = "gfx//interface//advisors//asian_tactician.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_mercenary_captain"
+		texturefile = "gfx//interface//advisors//asian_mercenary_captain.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_advisor_asiangfx_defensive_planner"
+		texturefile = "gfx//interface//advisors//asian_defensive_planner.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+}
