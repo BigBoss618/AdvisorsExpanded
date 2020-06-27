@@ -129,6 +129,10 @@ pioneer = {
 
 	chance = {
 		factor = 1
+		modifier = {
+			factor = 0
+			owner = { NOT = { num_of_colonists = 1 } }
+		}
 	}
 	
 	ai_will_do = {
