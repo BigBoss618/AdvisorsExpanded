@@ -54,7 +54,7 @@ researcher = {
 	monarch_power = ADM
 	
 	# Bonus
-	global_institution_spread = 0.25
+	global_institution_spread = 0.20
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
@@ -94,8 +94,11 @@ religious_representative = {
 
 	chance = {
 		factor = 1
+		modifier = {
+			factor = 0
+			owner = { NOT = { has_estate = estate_church } }
+		}
 	}
-	
 	ai_will_do = {
 		factor = 1
 	}
@@ -150,6 +153,10 @@ marauder_captain = {
 
 	chance = {
 		factor = 1
+		modifier = {
+			factor = 0
+			owner = { NOT = { has_dlc = "Mare Nostrum" } }
+		}
 	}
 	
 	ai_will_do = {
@@ -195,7 +202,7 @@ navarch = {
 	monarch_power = DIP
 	
 	# Bonus
-	navy_tradition = 1
+	navy_tradition_decay = -0.01
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
@@ -212,7 +219,7 @@ commander = {
 	monarch_power = MIL
 	
 	# Bonus
-	army_tradition = 1
+	army_tradition_decay = -0.01
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
@@ -234,6 +241,10 @@ drill_instructor = {
 
 	chance = {
 		factor = 1
+		modifier = {
+			factor = 0
+			owner = { NOT = { has_dlc = "Cradle of Civilization" } }
+		}
 	}
 	
 	ai_will_do = {
