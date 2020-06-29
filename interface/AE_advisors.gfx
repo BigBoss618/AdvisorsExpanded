@@ -108,6 +108,15 @@ spriteTypes = {
 	}
 
 	spriteType = {
+		name = "GFX_advisor_subject_mediator"
+		texturefile = "gfx//interface//advisors//subject_mediator.dds"
+		noOfFrames = 1
+
+		effectFile = "gfx/FX/buttonstate.lua"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
 		name = "GFX_advisor_commander"
 		texturefile = "gfx//interface//advisors//commander.dds"
 		noOfFrames = 1
@@ -648,3 +657,4 @@ spriteTypes = {
 		loadType = "INGAME"
 	}
 }
+
