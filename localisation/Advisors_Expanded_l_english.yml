@@ -40,4 +40,45 @@
  subject_mediator_desc:0 "“When kings the sword of justice first lay down, \nThey are no kings, though they possess the crown. \nTitles are shadows, crowns are empty things, \nThe good of subjects is the end of kings.”"
 
  #Version 1.3
+
+ #Modifiers
+
  ADE_extra_advisors_modifier: "Advisors Expanded"
+ ADE_administrator_event_modifier: "An Excellent Administrator"
+ ADE_state_overseer_event_modifier: "Competent State Overseer"
+ ADE_civil_engineer_event_modifier: "Visionary Civil Engineer"
+ ADE_researcher_event_modifier: "A Man of Research"
+ ADE_religious_representative_event_modifier: "An Excellent Religious Symbol"
+
+ #Events
+
+ advisors_expanded_events.EVTNAME3: "$ADMINISTRATOR$"
+ advisors_expanded_events.EVTDESC3: ""The first method for estimating the intelligence of a ruler is to look at the men he has around him." \n§G$ADMINISTRATOR$§!"
+ advisors_expanded_events3.EVTOPT1: "$ADMINISTRATOR$ will enlighten our realm!"
+ advisors_expanded_events3.EVTOPT2: "$ADMINISTRATOR$ will shine beyond our borders!"
+
+ advisors_expanded_events.EVTNAME4: "$STATE_OVERSEER$"
+ advisors_expanded_events.EVTDESC4: ""We have the best government that money can buy." \n§G$STATE_OVERSEER$§!"
+ advisors_expanded_events4.EVTOPT1: "$STATE_OVERSEER$  will enlighten our realm!"
+ advisors_expanded_events4.EVTOPT2: "$STATE_OVERSEER$ will shine beyond our borders!"
+
+ advisors_expanded_events.EVTNAME5: "$CIVIL_ENGINEER$"
+ advisors_expanded_events.EVTDESC5: ""Use the best possible materials, and reveal the quality of those materials and the craftsmanship of their assembly." \n§G$CIVIL_ENGINEER$§!" 
+ advisors_expanded_events5.EVTOPT1: "$CIVIL_ENGINEER$ will enlighten our realm!"
+ advisors_expanded_events5.EVTOPT2: "$CIVIL_ENGINEER$ will shine beyond our borders!"
+
+ advisors_expanded_events.EVTNAME6: "$RESEARCHER$"
+ advisors_expanded_events.EVTDESC6: ""To develop a complete mind; \nStudy the science of art. \nStudy the art of science. \nLearn how to see. \nRealize that everything connects to everything else. \n§G$RESEARCHER$§!" 
+ advisors_expanded_events6.EVTOPT1: "$RESEARCHER$ will enlighten our realm!"
+ advisors_expanded_events6.EVTOPT2: "$RESEARCHER$ will shine beyond our borders!"
+
+ advisors_expanded_events.EVTNAME7: "$REFORMIST$"
+ advisors_expanded_events.EVTDESC7: ""Progress is impossible without change, and those who cannot change their minds cannot change anything." \n§G$REFORMIST$§!"
+ advisors_expanded_events7.EVTOPT1: "$REFORMIST$ will enlighten our realm!"
+ advisors_expanded_events7.EVTOPT2: "$REFORMIST$ will shine beyond our borders!"
+
+ advisors_expanded_events.EVTNAME8: "$RELIGIOUS_REPRESENTATIVE$"
+ advisors_expanded_events.EVTDESC8: ""Faith is a living, daring confidence in God's grace, so sure and certain that a man could stake his life on it a thousand times. " \n§G$RELIGIOUS_REPRESENTATIVE$§!"
+ advisors_expanded_events8.EVTOPT1: "$RELIGIOUS_REPRESENTATIVE$ will enlighten our realm!"
+ advisors_expanded_events8.EVTOPT2: "$RELIGIOUS_REPRESENTATIVE$ will shine beyond our borders!"
+

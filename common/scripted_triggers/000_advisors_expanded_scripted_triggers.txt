@@ -79,6 +79,7 @@ has_dip_advisor = {
 			advisor = marketeer
 			advisor = mercantile_influencer
 			advisor = navarch
+			advisor = subject_mediator
 		}
 	}
 }
@@ -100,6 +101,7 @@ has_dip_advisor_2 = {
 			marketeer = 2
 			mercantile_influencer = 2
 			navarch = 2
+			subject_mediator = 2
 		}
 	}
 }
@@ -121,6 +123,7 @@ has_dip_advisor_3 = {
 			marketeer = 3
 			mercantile_influencer = 3
 			navarch = 3
+			subject_mediator = 3
 		}
 	}
 }

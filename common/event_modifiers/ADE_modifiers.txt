@@ -1,3 +1,23 @@
 ADE_extra_advisors_modifier = {
 	advisor_pool = 1	
 }
+
+ADE_administrator_event_modifier = {
+	administrative_efficiency = 0.05
+}
+
+ADE_state_overseer_event_modifier = {
+	build_cost = -0.2
+}
+
+ADE_civil_engineer_event_modifier = {
+	development_cost = -0.15
+}
+
+ADE_researcher_event_modifier = {
+	idea_cost = -0.1
+}
+
+ADE_religious_representative_event_modifier = {
+	tolerance_own = 2
+}
