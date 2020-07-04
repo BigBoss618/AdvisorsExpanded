@@ -1,0 +1,3 @@
+ADE_extra_advisors_modifier = {
+	advisor_pool = 1	
+}

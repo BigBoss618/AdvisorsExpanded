@@ -1,0 +1,55 @@
+namespace = advisors_expanded_events
+
+country_event = {
+    id = advisors_expanded_events.1
+    title = advisors_expanded_events.EVTNAME1
+    desc = advisors_expanded_events.EVTDESC1
+
+    hidden = yes
+    fire_only_once = yes
+
+    trigger = {
+        always = yes
+    }
+
+    immediate = {
+        hidden_effect = {
+            set_global_flag = advisors_expanded_mod_active
+        }
+    }
+
+    option = {
+        name = advisors_expanded_events1.EVTOPT1
+
+        ai_chance = { factor = 100 }
+    }
+}
+
+country_event = {
+    id = advisors_expanded_events.2
+    title = advisors_expanded_events.EVTNAME2
+    desc = advisors_expanded_events.EVTDESC2
+    picture = DIPLOMACY_eventPicture
+
+    trigger = {
+        always = yes
+        NOT = {
+            has_country_modifier = ADE_extra_advisors_modifier
+        }
+    }
+
+    immediate = {
+        hidden_effect = {
+            add_country_modifier = {
+                name = ADE_extra_advisors_modifier
+                duration = -1
+            }
+        }
+    }
+
+    option = {
+        name = advisors_expanded_events2.EVTOPT1
+
+        ai_chance = { factor = 100 }
+    }
+}

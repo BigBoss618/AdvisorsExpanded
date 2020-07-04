@@ -38,3 +38,6 @@
  #Version 1.2
  subject_mediator:0 "Subject Mediator"
  subject_mediator_desc:0 "“When kings the sword of justice first lay down, \nThey are no kings, though they possess the crown. \nTitles are shadows, crowns are empty things, \nThe good of subjects is the end of kings.”"
+
+ #Version 1.3
+ ADE_extra_advisors_modifier: "Advisors Expanded"
