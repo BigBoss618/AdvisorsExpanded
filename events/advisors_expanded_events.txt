@@ -4,6 +4,7 @@ country_event = {
     id = advisors_expanded_events.1
     title = advisors_expanded_events.EVTNAME1
     desc = advisors_expanded_events.EVTDESC1
+	picture = DIPLOMACY_eventPicture
 
     hidden = yes
     fire_only_once = yes
@@ -31,14 +32,13 @@ country_event = {
     desc = advisors_expanded_events.EVTDESC2
     picture = DIPLOMACY_eventPicture
 
+	hidden = yes
+
     trigger = {
-        always = yes
-        NOT = {
-            has_country_modifier = ADE_extra_advisors_modifier
-        }
+        NOT = { has_country_modifier = ADE_extra_advisors_modifier }
     }
 
-    hidden = yes
+	mean_time_to_happen = { months = 1 }
 
     immediate = {
         hidden_effect = {
@@ -63,7 +63,7 @@ country_event = {  #administrator
     picture = ADVISOR_eventPicture
 
     trigger = {
-        administrator = 3 
+        administrator = 3
         NOT = { has_country_flag = ADE_administrator }
     }
 
@@ -71,24 +71,23 @@ country_event = {  #administrator
         months = 300
     }
 
-
     option = {
         name = advisors_expanded_events3.EVTOPT1
-        
+
         add_meritocracy_effect = yes
 		add_stability_or_adm_power = yes
 		set_country_flag = ADE_administrator
         add_country_modifier = {
             name = ADE_administrator_event_modifier
             duration = 2190
-        }    
+        }
     }
 
     option = {
         name = advisors_expanded_events3.EVTOPT2
 
         add_meritocracy_effect = yes
-        add_prestige = 25 
+        add_prestige = 25
         set_country_flag = ADE_administrator
         add_country_modifier = {
             name = ADE_administrator_event_modifier
@@ -104,7 +103,7 @@ country_event = {  #state_overseer
     picture = ADVISOR_eventPicture
 
     trigger = {
-        state_overseer = 3 
+        state_overseer = 3
         NOT = { has_country_flag = ADE_state_overseer }
     }
 
@@ -112,24 +111,23 @@ country_event = {  #state_overseer
         months = 300
     }
 
-
     option = {
         name = advisors_expanded_events4.EVTOPT1
-        
+
         add_meritocracy_effect = yes
 		add_stability_or_adm_power = yes
 		set_country_flag = ADE_state_overseer
         add_country_modifier = {
             name = ADE_state_overseer_event_modifier
             duration = 2190
-        }    
+        }
     }
 
     option = {
         name = advisors_expanded_events4.EVTOPT2
 
         add_meritocracy_effect = yes
-        add_prestige = 25 
+        add_prestige = 25
         set_country_flag = ADE_state_overseer
         add_country_modifier = {
             name = ADE_state_overseer_event_modifier
@@ -145,7 +143,7 @@ country_event = {  #civil_engineer
     picture = ADVISOR_eventPicture
 
     trigger = {
-        civil_engineer = 3 
+        civil_engineer = 3
         NOT = { has_country_flag = ADE_civil_engineer }
     }
 
@@ -153,24 +151,23 @@ country_event = {  #civil_engineer
         months = 300
     }
 
-
     option = {
         name = advisors_expanded_events5.EVTOPT1
-        
+
         add_meritocracy_effect = yes
 		add_stability_or_adm_power = yes
 		set_country_flag = ADE_civil_engineer
         add_country_modifier = {
             name = ADE_civil_engineer_event_modifier
             duration = 2190
-        }    
+        }
     }
 
     option = {
         name = advisors_expanded_events5.EVTOPT2
 
         add_meritocracy_effect = yes
-        add_prestige = 25 
+        add_prestige = 25
         set_country_flag = ADE_civil_engineer
         add_country_modifier = {
             name = ADE_civil_engineer_event_modifier
@@ -186,33 +183,31 @@ country_event = {  #researcher
     picture = ADVISOR_eventPicture
 
     trigger = {
-        researcher = 3 
+        researcher = 3
         NOT = { has_country_flag = ADE_researcher }
-
     }
 
     mean_time_to_happen = {
         months = 300
     }
 
-
     option = {
         name = advisors_expanded_events6.EVTOPT1
-        
+
         add_meritocracy_effect = yes
 		add_stability_or_adm_power = yes
 		set_country_flag = ADE_researcher
         add_country_modifier = {
             name = ADE_researcher_event_modifier
             duration = 2190
-        }    
+        }
     }
 
     option = {
         name = advisors_expanded_events6.EVTOPT2
 
         add_meritocracy_effect = yes
-        add_prestige = 25 
+        add_prestige = 25
         set_country_flag = ADE_researcher
         add_country_modifier = {
             name = ADE_researcher_event_modifier
@@ -228,30 +223,28 @@ country_event = {  #reformist
     picture = ADVISOR_eventPicture
 
     trigger = {
-        reformist = 3 
+        reformist = 3
         NOT = { has_country_flag = ADE_reformist }
-        
     }
 
     mean_time_to_happen = {
         months = 300
     }
 
-
     option = {
         name = advisors_expanded_events7.EVTOPT1
-        
+
         add_meritocracy_effect = yes
 		add_stability_or_adm_power = yes
 		set_country_flag = ADE_reformist
-        change_government_reform_progress = 100   
+        change_government_reform_progress = 100
     }
 
     option = {
         name = advisors_expanded_events7.EVTOPT2
 
         add_meritocracy_effect = yes
-        add_prestige = 25 
+        add_prestige = 25
         set_country_flag = ADE_reformist
         change_government_reform_progress = 100
     }
@@ -264,37 +257,35 @@ country_event = {  #religious_representative
     picture = ADVISOR_eventPicture
 
     trigger = {
-        religious_representative = 3 
+        religious_representative = 3
         NOT = { has_country_flag = ADE_religious_representative }
-        
     }
 
     mean_time_to_happen = {
         months = 300
     }
 
-
     option = {
         name = advisors_expanded_events8.EVTOPT1
-        
+
         add_meritocracy_effect = yes
 		add_stability_or_adm_power = yes
 		set_country_flag = ADE_religious_representative
         add_country_modifier = {
             name = ADE_religious_representative_event_modifier
             duration = 2190
-        }   
+        }
     }
 
     option = {
         name = advisors_expanded_events8.EVTOPT2
 
         add_meritocracy_effect = yes
-        add_prestige = 25 
+        add_prestige = 25
         set_country_flag = ADE_religious_representative
         add_country_modifier = {
             name = ADE_religious_representative_event_modifier
             duration = 2190
-        } 
-    }    
+        }
+    }
 }
