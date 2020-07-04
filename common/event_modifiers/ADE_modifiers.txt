@@ -1,5 +1,5 @@
 ADE_extra_advisors_modifier = {
-	advisor_pool = 1	
+	advisor_pool = 2	
 }
 
 ADE_administrator_event_modifier = {
