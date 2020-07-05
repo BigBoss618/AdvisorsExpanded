@@ -21,3 +21,34 @@ ADE_researcher_event_modifier = {
 ADE_religious_representative_event_modifier = {
 	tolerance_own = 2
 }
+
+ADE_negotiator_event_modifier = {
+	province_warscore_cost = -0.2	
+}
+
+ADE_pioneer_event_modifier = {
+	global_colonial_growth = 25
+	colonist_placement_chance = 0.1
+}
+
+ADE_marauder_captain_event_modifier = {
+	capture_ship_chance = 0.25
+}
+
+ADE_marketeer_event_modifier = {
+	global_foreign_trade_power = 0.2
+}
+
+ADE_mercantile_influencer_event_modifier = {
+	global_ship_trade_power = 0.2
+	global_prov_trade_power_modifier = 0.2
+}
+
+ADE_navarch_event_modifier = {
+	global_naval_engagement_modifier = 0.25
+}
+
+ADE_subject_mediator_event_modifier = {
+	diplomatic_annexation_cost = -0.15
+	country_diplomatic_power = 1
+}

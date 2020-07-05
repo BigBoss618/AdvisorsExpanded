@@ -56,6 +56,8 @@ country_event = {
     }
 }
 
+####ADMINISTRATIVE ADVISOR EVENTS####
+
 country_event = {  #administrator
     id = advisors_expanded_events.3
     title = advisors_expanded_events.EVTNAME3
@@ -298,3 +300,318 @@ country_event = {  #religious_representative
         } 
     }    
 }
+
+####DIPLOMATIC ADVISOR EVENTS####
+
+country_event = {  #negotiator
+    id = advisors_expanded_events.9
+    title = advisors_expanded_events.EVTNAME9
+    desc = advisors_expanded_events.EVTDESC9
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        negotiator = 3 
+        NOT = { has_country_flag = ADE_negotiator }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events9.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_negotiator
+        add_country_modifier = {
+            name = ADE_negotiator_event_modifier
+            duration = 2190
+        }   
+    }
+
+    option = {
+        name = advisors_expanded_events9.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_negotiator
+        add_country_modifier = {
+            name = ADE_negotiator_event_modifier
+            duration = 2190
+        } 
+    }    
+}
+
+country_event = {  #pioneer
+    id = advisors_expanded_events.10
+    title = advisors_expanded_events.EVTNAME10
+    desc = advisors_expanded_events.EVTDESC10
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        pioneer = 3 
+        NOT = { has_country_flag = ADE_pioneer }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events10.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_pioneer
+        add_country_modifier = {
+            name = ADE_pioneer_event_modifier
+            duration = 2190
+        }   
+    }
+
+    option = {
+        name = advisors_expanded_events10.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_pioneer
+        add_country_modifier = {
+            name = ADE_pioneer_event_modifier
+            duration = 2190
+        } 
+    }    
+}
+
+country_event = {  #marauder_captain
+    id = advisors_expanded_events.11
+    title = advisors_expanded_events.EVTNAME11
+    desc = advisors_expanded_events.EVTDESC11
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        marauder_captain = 3 
+        NOT = { has_country_flag = ADE_marauder_captain }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events11.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_marauder_captain
+        add_country_modifier = {
+            name = ADE_marauder_captain_event_modifier
+            duration = 2190
+        }   
+    }
+
+    option = {
+        name = advisors_expanded_events11.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_marauder_captain
+        add_country_modifier = {
+            name = ADE_marauder_captain_event_modifier
+            duration = 2190
+        } 
+    }    
+}
+
+country_event = {  #marketeer
+    id = advisors_expanded_events.12
+    title = advisors_expanded_events.EVTNAME12
+    desc = advisors_expanded_events.EVTDESC12
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        marketeer = 3 
+        NOT = { has_country_flag = marketeer }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events12.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_marketeer
+        add_country_modifier = {
+            name = ADE_marketeer_event_modifier
+            duration = 2190
+        }
+        add_mercantilism = 3   
+    }
+
+    option = {
+        name = advisors_expanded_events12.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_marketeer_captain
+        add_country_modifier = {
+            name = ADE_marketeer_event_modifier
+            duration = 2190
+        }
+        add_mercantilism = 3 
+    }    
+}
+
+country_event = {  #mercantile_influencer
+    id = advisors_expanded_events.13
+    title = advisors_expanded_events.EVTNAME13
+    desc = advisors_expanded_events.EVTDESC13
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        mercantile_influencer = 3 
+        NOT = { has_country_flag = ADE_mercantile_influencer }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events13.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_mercantile_influencer
+        add_country_modifier = {
+            name = ADE_mercantile_influencer_event_modifier
+            duration = 2190
+        }   
+    }
+
+    option = {
+        name = advisors_expanded_events13.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_mercantile_influencer
+        add_country_modifier = {
+            name = ADE_mercantile_influencer_event_modifier
+            duration = 2190
+        } 
+    }    
+}
+
+country_event = {  #navarch
+    id = advisors_expanded_events.14
+    title = advisors_expanded_events.EVTNAME14
+    desc = advisors_expanded_events.EVTDESC14
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        navarch = 3 
+        NOT = { has_country_flag = ADE_navarch }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events14.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_navarch
+        add_country_modifier = {
+            name = ADE_navarch_event_modifier
+            duration = 2190
+        }   
+    }
+
+    option = {
+        name = advisors_expanded_events14.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_navarch
+        add_country_modifier = {
+            name = ADE_navarch_event_modifier
+            duration = 2190
+        } 
+    }    
+}
+
+country_event = {  #subject_mediator
+    id = advisors_expanded_events.15
+    title = advisors_expanded_events.EVTNAME15
+    desc = advisors_expanded_events.EVTDESC15
+    picture = ADVISOR_eventPicture
+
+    trigger = {
+        subject_mediator = 3 
+        NOT = { has_country_flag = ADE_subject_mediator }
+        
+    }
+
+    mean_time_to_happen = {
+        months = 300
+    }
+
+
+    option = {
+        name = advisors_expanded_events15.EVTOPT1
+        
+        add_meritocracy_effect = yes
+		add_stability_or_adm_power = yes
+		set_country_flag = ADE_subject_mediator
+        add_country_modifier = {
+            name = ADE_subject_mediator_event_modifier
+            duration = 2190
+        }   
+    }
+
+    option = {
+        name = advisors_expanded_events15.EVTOPT2
+
+        add_meritocracy_effect = yes
+        add_prestige = 25 
+        set_country_flag = ADE_subject_mediator
+        add_country_modifier = {
+            name = ADE_subject_mediator_event_modifier
+            duration = 2190
+        } 
+    }    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
