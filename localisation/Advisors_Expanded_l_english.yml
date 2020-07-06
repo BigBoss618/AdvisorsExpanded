@@ -82,3 +82,51 @@
  advisors_expanded_events8.EVTOPT1: "$RELIGIOUS_REPRESENTATIVE$ will enlighten our realm!"
  advisors_expanded_events8.EVTOPT2: "$RELIGIOUS_REPRESENTATIVE$ will shine beyond our borders!"
 
+ #Version 1.4
+ 
+ #Events
+ 
+ advisors_expanded_events.EVTNAME9: "$NEGOTIATOR$"
+ advisors_expanded_events.EVTDESC9: ""I've read hundreds of books about [Root.GetName] over the decades. I know the [Root.GetAdjective] people. I've made a lot of money with the [Root.GetAdjective]. I understand the [Root.GetAdjective] mind." \n§G$NEGOTIATOR$§!"
+ advisors_expanded_events9.EVTOPT1: "$NEGOTIATOR$ will enlighten our realm!"
+ advisors_expanded_events9.EVTOPT2: "$NEGOTIATOR$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME10: "$PIONEER$"
+ advisors_expanded_events.EVTDESC10: ""We [Root.GetAdjective] know a sickness of the heart that only gold can cure." \n§G$PIONEER$§!"
+ advisors_expanded_events10.EVTOPT1: "$PIONEER$ will enlighten our realm!"
+ advisors_expanded_events10.EVTOPT2: "$PIONEER$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME11: "$MARAUDER_CAPTAIN$"
+ advisors_expanded_events.EVTDESC11: ""This is the day you will always remember as the day you almost caught Captain $MARAUDER_CAPTAIN$" \n§G$MARAUDER_CAPTAIN$$§!" 
+ advisors_expanded_events11.EVTOPT1: "$MARAUDER_CAPTAIN$ will enlighten our realm!"
+ advisors_expanded_events11.EVTOPT2: "$MARAUDER_CAPTAIN$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME12: "$MARKETEER$"
+ advisors_expanded_events.EVTDESC12: ""Advocates of protocapitalism are very apt to appeal to the sacred principles of liberty, which are embodied in one maxim: The fortunate must not be restrained in the exercise of tyranny over the unfortunate." \n§G$MARKETEER$$§!"
+ advisors_expanded_events12.EVTOPT1: "$MARKETEER$ will enlighten our realm!"
+ advisors_expanded_events12.EVTOPT2: "$MARKETEER$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME13: "$MERCANTILE_INFLUENCER$"
+ advisors_expanded_events.EVTDESC13: ""Peace, commerce, and honest friendship with all nations, entangling alliances with none." \n§G$MERCANTILE_INFLUENCER$§!"
+ advisors_expanded_events13.EVTOPT1: "$MERCANTILE_INFLUENCER$ will enlighten our realm!"
+ advisors_expanded_events13.EVTOPT2: "$MERCANTILE_INFLUENCER$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME14: "$NAVARCH$"
+ advisors_expanded_events.EVTDESC14: ""Those who seek death shall live. Those who seek life shall die." \n§G$NAVARCH$§!"
+ advisors_expanded_events14.EVTOPT1: "$NAVARCH$ will enlighten our realm!"
+ advisors_expanded_events14.EVTOPT2: "$NAVARCH$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME15: "$SUBJECT_MEDIATOR$"
+ advisors_expanded_events.EVTDESC15: ""Speak softly and carry a big stick; you will go far." \n§G$SUBJECT_MEDIATOR$§!"
+ advisors_expanded_events15.EVTOPT1: "$SUBJECT_MEDIATOR$ will enlighten our realm!"
+ advisors_expanded_events15.EVTOPT2: "$SUBJECT_MEDIATOR$ will shine beyond our borders!"
+ 
+ #Modifiers 
+ 
+ ADE_negotiator_event_modifier: "The Art of the Deal"
+ ADE_pioneer_event_modifier: "New Shores Saga"
+ ADE_marauder_captain_event_modifier: "Reknowned Scallywag Captain"
+ ADE_marketeer_event_modifier: "Mercantilistic Ventures"
+ ADE_mercantile_influencer_event_modifier: "Excellent Financial Regulations"
+ ADE_navarch_event_modifier: "An Inspirational Navarch"
+ ADE_subject_mediator_event_modifier: "Eloquent Overlord"
