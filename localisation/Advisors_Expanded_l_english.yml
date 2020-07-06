@@ -97,12 +97,12 @@
  advisors_expanded_events10.EVTOPT2: "$PIONEER$ will shine beyond our borders!"
  
  advisors_expanded_events.EVTNAME11: "$MARAUDER_CAPTAIN$"
- advisors_expanded_events.EVTDESC11: ""This is the day you will always remember as the day you almost caught Captain $MARAUDER_CAPTAIN$" \n§G$MARAUDER_CAPTAIN$$§!" 
+ advisors_expanded_events.EVTDESC11: ""This is the day you will always remember as the day you almost caught Captain $MARAUDER_CAPTAIN$" \n§G$MARAUDER_CAPTAIN$§!" 
  advisors_expanded_events11.EVTOPT1: "$MARAUDER_CAPTAIN$ will enlighten our realm!"
  advisors_expanded_events11.EVTOPT2: "$MARAUDER_CAPTAIN$ will shine beyond our borders!"
  
  advisors_expanded_events.EVTNAME12: "$MARKETEER$"
- advisors_expanded_events.EVTDESC12: ""Advocates of protocapitalism are very apt to appeal to the sacred principles of liberty, which are embodied in one maxim: The fortunate must not be restrained in the exercise of tyranny over the unfortunate." \n§G$MARKETEER$$§!"
+ advisors_expanded_events.EVTDESC12: ""Advocates of protocapitalism are very apt to appeal to the sacred principles of liberty, which are embodied in one maxim: The fortunate must not be restrained in the exercise of tyranny over the unfortunate." \n§G$MARKETEER$§!"
  advisors_expanded_events12.EVTOPT1: "$MARKETEER$ will enlighten our realm!"
  advisors_expanded_events12.EVTOPT2: "$MARKETEER$ will shine beyond our borders!"
  
@@ -126,7 +126,7 @@
  ADE_negotiator_event_modifier: "The Art of the Deal"
  ADE_pioneer_event_modifier: "New Shores Saga"
  ADE_marauder_captain_event_modifier: "Reknowned Scallywag Captain"
- ADE_marketeer_event_modifier: "Mercantilistic Ventures"
+ ADE_marketeer_event_modifier: "Mercantilistic Exploitation"
  ADE_mercantile_influencer_event_modifier: "Excellent Financial Regulations"
  ADE_navarch_event_modifier: "An Inspirational Navarch"
  ADE_subject_mediator_event_modifier: "Eloquent Overlord"
