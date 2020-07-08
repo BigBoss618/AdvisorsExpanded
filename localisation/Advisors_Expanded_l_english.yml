@@ -130,3 +130,53 @@
  ADE_mercantile_influencer_event_modifier: "Excellent Financial Regulations"
  ADE_navarch_event_modifier: "An Inspirational Navarch"
  ADE_subject_mediator_event_modifier: "Eloquent Overlord"
+ 
+ # v 1.4
+ advisors_expanded_events.EVTNAME16: "$COMMANDER$"
+ advisors_expanded_events.EVTDESC16: ""Leadership is the art of getting someone else to do something you want done because he wants to do it." \n§G$COMMANDER$§!"
+ advisors_expanded_events16.EVTOPT1: "$COMMANDER$ will enlighten our realm!"
+ advisors_expanded_events16.EVTOPT2: "$COMMANDER$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME17: "$DRILL_INSTRUCTOR$"
+ advisors_expanded_events.EVTDESC17: ""If you ladies leave my island, if you survive recruit training, you will be a weapon. You will be a minister of death praying for war. But until that day, you are pukes. You are the lowest form of life on Earth. You are not even human fucking beings. You are nothing but unorganized grab-asstic pieces of amphibian shit! Because I am hard, you will not like me. But the more you hate me, the more you will learn. I am hard but I am fair. There is no racial bigotry here. Here you are all equally worthless. And my orders are to weed out all non-hackers who do not pack the gear to serve in my beloved Corps. Do you maggots understand that?" \n§G$DRILL_INSTRUCTOR$§!"
+ advisors_expanded_events17.EVTOPT1: "$DRILL_INSTRUCTOR$ will enlighten our realm!"
+ advisors_expanded_events17.EVTOPT2: "$DRILL_INSTRUCTOR$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME18: "$COMBAT_ENGINEER$"
+ advisors_expanded_events.EVTDESC18: ""Artillery is the God of war" \n§G$COMBAT_ENGINEER$§!"
+ advisors_expanded_events18.EVTOPT1: "$$COMBAT_ENGINEER$$ will enlighten our realm!"
+ advisors_expanded_events18.EVTOPT2: "$$COMBAT_ENGINEER$$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME19: "$TACTICIAN$"
+ advisors_expanded_events.EVTDESC19: ""Always remember the first rule of power tactics; power is not only what you have but what the enemy thinks you have." \n§G$TACTICIAN$§!"
+ advisors_expanded_events19.EVTOPT1: "$TACTICIAN$ will enlighten our realm!"
+ advisors_expanded_events19.EVTOPT2: "$TACTICIAN$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME20: "$MERCENARY_CAPTAIN$"
+ advisors_expanded_events.EVTDESC20: ""So what's wrong with being a mercenary? Is your war worth fighting? If it is, then why does it matter who fights it for you? Aren't we imbued with the righteousness of your cause when we take up arms for you? Would you rather your own men and women died to make the point? And if your war is so noble, so necessary - why aren't you fighting it for yourself? Think of all that before you disregard us." \n§G$MERCENARY_CAPTAIN$§!"                              
+ advisors_expanded_events20.EVTOPT1: "$MERCENARY_CAPTAIN$ will enlighten our realm!"
+ advisors_expanded_events20.EVTOPT2: "$MERCENARY_CAPTAIN$ will shine beyond our borders!"
+ 
+ advisors_expanded_events.EVTNAME21: "$DEFENSIVE_PLANNER$"
+ advisors_expanded_events.EVTDESC21: ""Invincibility lies in the defence; the possibility of victory in the attack." \n§G$DEFENSIVE_PLANNER$§!"
+ advisors_expanded_events21.EVTOPT1: "$DEFENSIVE_PLANNER$ will enlighten our realm!"
+ advisors_expanded_events21.EVTOPT2: "$DEFENSIVE_PLANNER$ will shine beyond our borders!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -52,3 +52,32 @@ ADE_subject_mediator_event_modifier = {
 	diplomatic_annexation_cost = -0.15
 	country_diplomatic_power = 1
 }
+ADE_commander_event_modifier = {
+	leader_land_fire = 1
+}
+ADE_drill_instructor_event_modifier = {
+	drill_decay_modifier = -0.33
+}
+ADE_combat_engineer_event_modifier = {
+	siege_ability = 0.15
+	artillery_bonus_vs_fort = 2
+}
+ADE_tactician_event_modifier = {
+	movement_speed = 0.25
+}
+ADE_defensive_planner_event_modifier = {
+	fire_damage_received = -0.10
+}
+ADE_mercenary_captain_event_modifier = {
+	mercenary_discipline = 0.10
+	mercenary_manpower = 0.20
+}
+
+
+
+
+
+
+
+
+
