@@ -131,7 +131,8 @@
  ADE_navarch_event_modifier: "An Inspirational Navarch"
  ADE_subject_mediator_event_modifier: "Eloquent Overlord"
  
- # v 1.4
+ #v 1.4
+ #Events
  advisors_expanded_events.EVTNAME16: "$COMMANDER$"
  advisors_expanded_events.EVTDESC16: ""Leadership is the art of getting someone else to do something you want done because he wants to do it." \n§G$COMMANDER$§!"
  advisors_expanded_events16.EVTOPT1: "$COMMANDER$ will enlighten our realm!"
@@ -144,8 +145,8 @@
  
  advisors_expanded_events.EVTNAME18: "$COMBAT_ENGINEER$"
  advisors_expanded_events.EVTDESC18: ""Artillery is the God of war" \n§G$COMBAT_ENGINEER$§!"
- advisors_expanded_events18.EVTOPT1: "$$COMBAT_ENGINEER$$ will enlighten our realm!"
- advisors_expanded_events18.EVTOPT2: "$$COMBAT_ENGINEER$$ will shine beyond our borders!"
+ advisors_expanded_events18.EVTOPT1: "$COMBAT_ENGINEER$ will enlighten our realm!"
+ advisors_expanded_events18.EVTOPT2: "$COMBAT_ENGINEER$ will shine beyond our borders!"
  
  advisors_expanded_events.EVTNAME19: "$TACTICIAN$"
  advisors_expanded_events.EVTDESC19: ""Always remember the first rule of power tactics; power is not only what you have but what the enemy thinks you have." \n§G$TACTICIAN$§!"
@@ -161,6 +162,15 @@
  advisors_expanded_events.EVTDESC21: ""Invincibility lies in the defence; the possibility of victory in the attack." \n§G$DEFENSIVE_PLANNER$§!"
  advisors_expanded_events21.EVTOPT1: "$DEFENSIVE_PLANNER$ will enlighten our realm!"
  advisors_expanded_events21.EVTOPT2: "$DEFENSIVE_PLANNER$ will shine beyond our borders!"
+ 
+ #Modifiers
+ ADE_commander_event_modifier: "Reknowned Commander"
+ ADE_drill_instructor_event_modifier: "Legendary Drill Instructor"
+ ADE_combat_engineer_event_modifier: "Excellent Siege Artillery"
+ ADE_tactician_event_modifier: "Elegant Maneuverability"
+ ADE_defensive_planner_event_modifier: "Excellent Defensive Formations"
+ ADE_mercenary_captain_event_modifier: "Martial Code of War and Honor"
+ 
  
  
  
