@@ -1,5 +1,5 @@
 ADE_extra_advisors_modifier = {
-	advisor_pool = 2	
+	advisor_pool = 3	
 }
 
 ADE_administrator_event_modifier = {
@@ -69,7 +69,7 @@ ADE_defensive_planner_event_modifier = {
 	fire_damage_received = -0.10
 }
 ADE_mercenary_captain_event_modifier = {
-	mercenary_discipline = 0.10
+	mercenary_discipline = 0.05
 	mercenary_manpower = 0.20
 }
 
