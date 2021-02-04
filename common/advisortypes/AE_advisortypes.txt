@@ -37,7 +37,7 @@ civil_engineer = {
 	monarch_power = ADM
 	
 	# Bonus
-	development_cost = -0.1
+	development_cost = -0.05
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
@@ -88,7 +88,7 @@ religious_representative = {
 	monarch_power = ADM
 	
 	# Bonus
-	church_loyalty_modifier = 0.20
+	church_loyalty_modifier = 0.10
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
@@ -307,7 +307,7 @@ mercenary_captain = {
 	monarch_power = MIL
 	
 	# Bonus
-	mercenary_cost = -0.20
+	mercenary_cost = -0.10
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
