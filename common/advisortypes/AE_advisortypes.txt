@@ -339,7 +339,7 @@ defensive_planner = {
 
 ###### New Advisors to add #####
 #land_attrition = -0.1
-#amount_of_banners = 0.2
+#amount_of_banners = 0.25
 #special_unit_forcelimit= 0.2
 #allowed_marine_fraction = 0.15
 #religious_unity = 0.2
@@ -352,8 +352,8 @@ defensive_planner = {
 #heir_chance = 0.25
 #legitimacy = 1	/ horde_unity = 1 / devotion = 0.5
 #monthly_militarized_society = 0.05
-#yearly_tribal_allegiance = 0.2
-#nobles_loyalty_modifier = 0.2
+#yearly_tribal_allegiance = 0.5
+#nobles_loyalty_modifier = 0.1
 #burghers_loyalty_modifier = 0.2
 #num_accepted_cultures = 2	
 #fabricate_claims_cost= -0.25
