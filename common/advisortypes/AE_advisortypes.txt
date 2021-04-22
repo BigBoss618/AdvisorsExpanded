@@ -212,6 +212,10 @@ navarch = {
 
 	chance = {
 		factor = 1
+		modifier = {
+			factor = 0
+			NOT = { num_of_total_ports = 1 }
+		}
 	}
 	
 	ai_will_do = {
