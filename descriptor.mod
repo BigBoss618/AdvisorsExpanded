@@ -3,7 +3,7 @@ tags={
 	"Utilities"
 	"Gameplay"
 }
-name="Advisors Expanded"
+name="Advisors Expanded 1.31"
 picture="thumbnail.png"
-supported_version="1.30.*"
+supported_version="1.31.*"
 remote_file_id="2141678271"
