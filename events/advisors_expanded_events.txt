@@ -4,7 +4,8 @@ country_event = {
     id = advisors_expanded_events.1
     title = advisors_expanded_events.EVTNAME1
     desc = advisors_expanded_events.EVTDESC1
-
+	picture = ADVISOR_eventPicture
+	
     hidden = yes
     fire_only_once = yes
 
