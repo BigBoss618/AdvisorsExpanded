@@ -82,3 +82,11 @@
  advisors_expanded_events8.EVTOPT1: "$RELIGIOUS_REPRESENTATIVE$ will enlighten our realm!"
  advisors_expanded_events8.EVTOPT2: "$RELIGIOUS_REPRESENTATIVE$ will shine beyond our borders!"
 
+ #Version 1.4 23/11/2021
+ #"But I am very poorly today and very stupid and I hate everybody and everything"
+ has_adm_advisor_4_tooltip: "Has a level §Y4§! Administrative Advisor" 
+ has_adm_advisor_5_tooltip: "Has a level §Y5§! Administrative Advisor" 
+ has_dip_advisor_4_tooltip: "Has a level §Y4§! Diplomatic Advisor" 
+ has_dip_advisor_5_tooltip: "Has a level §Y5§! Diplomatic Advisor" 
+ has_mil_advisor_4_tooltip: "Has a level §Y5§! Military Advisor"
+ has_mil_advisor_5_tooltip: "Has a level §Y5§! Military Advisor"
