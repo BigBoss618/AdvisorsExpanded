@@ -214,7 +214,7 @@ navarch = {
 		factor = 1
 		modifier = {
 			factor = 0
-			NOT = { has_port = no }
+			has_port = no
 		}
 	}
 	
