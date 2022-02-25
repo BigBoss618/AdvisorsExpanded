@@ -15,6 +15,12 @@ has_adm_advisor = {
 			advisor = researcher
 			advisor = reformist
 			advisor = religious_representative
+			advisor = julius_archbishop
+			advisor = fu_accountant
+			advisor = fu_royal_imam
+			advisor = fu_city_planner
+			advisor = fu_cartographer
+			advisor = fu_head_of_patriarchate
 		}
 	}
 }
@@ -36,6 +42,10 @@ has_adm_advisor_2 = {
 			researcher = 2
 			reformist = 2
 			religious_representative = 2
+			julius_archbishop = 2
+			fu_accountant = 2 
+			fu_royal_imam = 2 
+			fu_city_planner = 2 
 		}
 	}
 }
@@ -57,6 +67,10 @@ has_adm_advisor_3 = {
 			researcher = 3
 			reformist = 3
 			religious_representative = 3
+			julius_archbishop = 3
+			fu_accountant = 3 
+			fu_royal_imam = 3 
+			fu_city_planner = 3 
 		}
 	}
 }
@@ -78,6 +92,10 @@ has_adm_advisor_4 = {
 			researcher = 4
 			reformist = 4
 			religious_representative = 4
+			julius_archbishop = 4
+			fu_accountant = 4 
+			fu_royal_imam = 4 
+			fu_city_planner = 4 
 		}
 	}
 }
@@ -99,6 +117,10 @@ has_adm_advisor_5 = {
 			researcher = 5
 			reformist = 5
 			religious_representative = 5
+			julius_archbishop = 5
+			fu_accountant = 5 
+			fu_royal_imam = 5
+			fu_city_planner = 5
 		}
 	}
 }
@@ -122,6 +144,9 @@ has_dip_advisor = {
 			advisor = mercantile_influencer
 			advisor = navarch
 			advisor = subject_mediator
+			advisor = composer
+			advisor = poet
+			advisor = fu_spymaster_assassin
 		}
 	}
 }
@@ -144,6 +169,9 @@ has_dip_advisor_2 = {
 			mercantile_influencer = 2
 			navarch = 2
 			subject_mediator = 2
+			composer = 2 
+			poet = 2 
+			fu_spymaster_assassin = 2 
 		}
 	}
 }
@@ -166,6 +194,9 @@ has_dip_advisor_3 = {
 			mercantile_influencer = 3
 			navarch = 3
 			subject_mediator = 3
+			composer = 3 
+			poet = 3 
+			fu_spymaster_assassin = 3
 		}
 	}
 }
@@ -188,6 +219,9 @@ has_dip_advisor_4 = {
 			mercantile_influencer = 4
 			navarch = 4
 			subject_mediator = 4
+			composer = 4
+			poet = 4 
+			fu_spymaster_assassin = 4
 		}
 	}
 }
@@ -210,6 +244,9 @@ has_dip_advisor_5 = {
 			mercantile_influencer = 5
 			navarch = 5
 			subject_mediator = 5
+			composer = 5
+			poet = 5
+			fu_spymaster_assassin = 5 
 		}
 	}
 }
@@ -231,6 +268,7 @@ has_mil_advisor = {
 			advisor = tactician
 			advisor = mercenary_captain
 			advisor = defensive_planner
+			advisor = fu_aristocrat
 		}
 	}
 }
@@ -252,6 +290,7 @@ has_mil_advisor_2 = {
 			tactician = 2
 			mercenary_captain = 2
 			defensive_planner = 2
+			fu_aristocrat = 2
 		}
 	}
 }
@@ -273,6 +312,7 @@ has_mil_advisor_3 = {
 			tactician = 3
 			mercenary_captain = 3
 			defensive_planner = 3
+			fu_aristocrat = 3 
 		}
 	}
 }
@@ -294,6 +334,7 @@ has_mil_advisor_4 = {
 			tactician = 4
 			mercenary_captain = 4
 			defensive_planner = 4
+			fu_aristocrat = 4
 		}
 	}
 }
@@ -315,6 +356,7 @@ has_mil_advisor_5 = {
 			tactician = 5
 			mercenary_captain = 5
 			defensive_planner = 5
+			fu_aristocrat = 5
 		}
 	}
 }
